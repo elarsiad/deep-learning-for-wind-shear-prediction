@@ -1,0 +1,13 @@
+name: wind-shear-prediction
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - pytorch
+  - plotly
+  - matplotlib
+  - pip
+  - pip:
+    - torch
