@@ -8,7 +8,7 @@ The dataset used for this project is based on observations from Soekarno Hatta I
 
 ## Methodology
 
-The project uses a Temporal Convolutional Network (TCN) to predict wind shear occurrences. The model is trained to predict the occurrence of wind shear in the next hour, based on 10-minute data windows sampled every 15 minutes.
+The project uses a Temporal Convolutional Network (TCN) to predict wind shear occurrences. The model is trained to predict the occurrence of wind shear in the next hour, based on 10-minute data windows sampled every 5 seconds.
 
 ## Libraries and Tools
 
