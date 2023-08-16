@@ -47,3 +47,7 @@ After installing the necessary libraries, you can run the following Jupyter note
 * 2-preprocessing.ipynb : linearly interpolated missing data, create input sequences and target variable (binary indicator, 1 if warning in the next 1 hour, 0 otherwise)
 * 3-feature engineering.ipynb : created rolling mean and variance features
 * 4-results.ipynb : trained TCN and LSTM models and evaluate their performances respect to various metrics and visualized trade off between false positives and false negatives
+
+## Acknowledgements
+
+This analysis was completed as my research project for my master degree at University of Washington.
