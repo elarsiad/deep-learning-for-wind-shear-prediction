@@ -50,4 +50,4 @@ After installing the necessary libraries, you can run the following Jupyter note
 
 ## Acknowledgements
 
-This analysis was completed as my research project for my master degree at University of Washington.
+This analysis was completed as a research project required for a master's degree at the University of Washington.
