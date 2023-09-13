@@ -1,4 +1,4 @@
-# Low-Level Wind Shear Alert Prediction System Using Machine Learning
+# Low-Level Wind Shear Alert Prediction System Using Deeo Learning
 
 This project aims to predict the occurrence of low-level wind shear at Soekarno Hatta International Airport using machine learning techniques, specifically a Temporal Convolutional Network (TCN). Low-level wind shear, characterized by rapid changes in wind speed and direction over short distances, poses significant challenges and risks to aviation operations, especially during critical phases such as takeoff and landing.
 
